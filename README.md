@@ -44,4 +44,8 @@ packages:
     - git
 ```
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https%3A%2F%2Fraw.githubusercontent.com%2Fvalda-z%2Fazure-infra-payground%2Fmaster%2Fcloud-init-vm%2Fazuredeploy.json)
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fvalda-z%2Fazure-infra-payground%2Fmaster%2Fcloud-init-vm%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
+
